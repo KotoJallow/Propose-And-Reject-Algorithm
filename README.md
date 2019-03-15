@@ -11,7 +11,7 @@ I took the initial of each person in the program and the expected output:
 
 I present it in this format:
 
-      ![result](https://user-images.githubusercontent.com/45719780/54435478-a351bc80-4741-11e9-8741-fd51ff6f9d5d.PNG)
+![result](https://user-images.githubusercontent.com/45719780/54435478-a351bc80-4741-11e9-8741-fd51ff6f9d5d.PNG)
 
       Where V:Victor , A:Army and so on.
    
