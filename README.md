@@ -9,7 +9,7 @@ The sample in the main file contains the data below:
 I took the initial of each person in the program and the expected output:
       ![output](https://user-images.githubusercontent.com/45719780/54435433-84ebc100-4741-11e9-8efb-4ffad6b23cfe.PNG)
 
-I present it in this format:
+I presented it in this format:
 
 ![result](https://user-images.githubusercontent.com/45719780/54435478-a351bc80-4741-11e9-8741-fd51ff6f9d5d.PNG)
 
