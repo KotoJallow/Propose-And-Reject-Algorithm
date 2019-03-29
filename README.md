@@ -1,5 +1,7 @@
 # Propose-And-Reject-Algorithm
 
+      #Stable Marriage Problem
+
 Implementation of Propose-and-reject algorithm. [Gale-Shapley 1962] Intuitive method
 that guarantees to find a stable matching using basic datastructures allowing room for dynamic programming.
 
